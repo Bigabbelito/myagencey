@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from "react";
-
+import FullLogo from '../../images/FullLogo.jpg';
 import './Header.css';
 
 const nav__links = [
@@ -70,6 +70,7 @@ const Header = ({ theme, toggleTheme }) => {
       <div className="container">
         <div className="nav__wrapper">
           <div className="logo">
+          {/* <img src={FullLogo} alt="" /> */}
             <h2>Digency</h2>
           </div>
 

@@ -98,7 +98,7 @@ const Footer = () => {
         </div>
 
         <p className="copyright">
-          Copyright {year}, developed by Muhibur Rahman. All rights reserved.{" "}
+          Copyright {year}, developed by Abdulah Abou Shihab. All rights reserved.{" "}
         </p>
       </div>
     </footer>
